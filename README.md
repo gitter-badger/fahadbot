@@ -1,5 +1,7 @@
 # [TeleSeed](https://telegram.me/TeleSeed)
 
+[![Join the chat at https://gitter.im/fahadalsari/fahadbot](https://badges.gitter.im/fahadalsari/fahadbot.svg)](https://gitter.im/fahadalsari/fahadbot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU Affero General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
